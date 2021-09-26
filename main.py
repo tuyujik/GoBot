@@ -21,7 +21,7 @@ Bot = Client(
 @Bot.on_message(filters.private & filters.command("start"))
 async def start(bot, update):
     await update.reply_text(
-        text=f"Hello {update.from_user.mention}, Please send a media for gofile.io stream link.\n\nMade by @FayasNoushad",
+        text=f"Hello {update.from_user.mention}, Please send a media for gofile.io stream link.\n\nMade by @Mo_Tech_YT",
         disable_web_page_preview=True,
         quote=True
     )
@@ -67,7 +67,7 @@ async def media_filter(bot, update):
                 InlineKeyboardButton(text="Share Link", url=f"https://telegram.me/share/url?url={response['directLink']}")
             ],
             [
-                InlineKeyboardButton(text="Join Updates Channel", url="https://telegram.me/FayasNoushad")
+                InlineKeyboardButton(text="Get More Botz", url="https://t.me/MT_BOTZ/72")
             ]
         ]
     )
