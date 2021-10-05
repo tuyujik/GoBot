@@ -2,6 +2,32 @@
 
 A telegram media to [gofile](https://gofile.io) bot
 
+https://github.com/MRK-YT/GoFile-Bot
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/MRK-YT/GoFile-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/MRK-YT/GoFile-Bot?style=social">
+
+  </a>
+  
+  <a href="https://github.com/MRK-YT/GoFile-Bot/fork">
+    <img src="https://img.shields.io/github/forks/MRK-YT/GoFile-Bot?label=Fork&style=social">
+
+  </a>  
+</p>
+
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/MRK-YT/GoFile-Bot/tree/main">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+
+
+
 ---
 
 ```
