@@ -67,7 +67,7 @@ async def media_filter(bot, update):
                 InlineKeyboardButton(text="Share Link", url=f"https://telegram.me/share/url?url={response['directLink']}")
             ],
             [
-                InlineKeyboardButton(text="Get More Botz", url="https://t.me/MT_BOTZ/72")
+                InlineKeyboardButton(text="💫Deploy Video💫", url="https://t.me/MT_BOTZ/72")
             ]
         ]
     )
