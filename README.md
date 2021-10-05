@@ -1,6 +1,6 @@
 # GoFile-Bot
 
-A telegram media to [gofile](https://gofile.io) bot
+A telegram media to [gofile](https://telegram.me/MT_GoFile_Bot) bot
 
 https://github.com/MRK-YT/GoFile-Bot
   </a>
