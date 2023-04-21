@@ -5,8 +5,8 @@ def uploadFile(file: str):
     response = requests.post(
         url=f"https://{server}.gofile.io/uploadFile",
         data={
-            "token": None,
-            "folderId": None,
+            "token": o0ysH3iUNsjyYh3v94ErRqrFoasu1WIZ,
+            "folderId": e8f8815a-b8a5-4c3e-b17b-c767789df955,
             "description": None,
             "password": None,
             "tags": None,
